@@ -1,7 +1,7 @@
 
 # 💻 Pranav Prasad
 
-**Embedded Systems Engineer | Advanced C | Embedded Linux | IoT | System Programming 🐧**
+**Embedded Systems Engineer | Advanced C | Embedded Linux | System Software Programming 🐧**
 
 ---
 
@@ -175,7 +175,6 @@ Thrissur, Kerala, India
 **B.Tech – Electronics and Communication Engineering**
 APJ Abdul Kalam Technological University
 CGPA: 8.76 / 10
-🏆 Overall Department Topper (2021–2025)
 
 ---
 
