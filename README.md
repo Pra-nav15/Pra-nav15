@@ -1,198 +1,183 @@
+<h1 align="center">💻 Pranav Prasad</h1>
 
-# 💻 Pranav Prasad
+<p align="center">
+  <b>Embedded Systems Engineer | Advanced C | Embedded Linux | System Software Programming 🐧</b>
+</p>
 
-**Embedded Systems Engineer | Advanced C | Embedded Linux | System Software Programming 🐧**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded-Linux-blue?style=flat&logo=linux">
+  <img src="https://img.shields.io/badge/Advanced-C-critical?style=flat&logo=c">
+  <img src="https://img.shields.io/badge/System-Programming-success?style=flat">
+</p>
 
 ---
 
 ## 📄 About Me
 
-Electronics and Communication Engineering graduate with strong foundations in embedded systems, low-level programming, and Linux-based development.
-Hands-on experience in Advanced C, data structures, embedded Linux, microcontrollers, and IoT systems through Emertxe training and academic projects.
+<p align="left">
+Electronics and Communication Engineering graduate with strong foundations in embedded systems, low-level programming, and Linux-based development.<br><br>
+Hands-on experience in Advanced C, data structures, embedded Linux, microcontrollers, and IoT systems through Emertxe training and academic projects.<br><br>
 Comfortable working close to hardware, handling binary data, and building robust system-level software.
+</p>
 
 ---
 
 ## 📍 Location
-
-Thrissur, Kerala, India
+📌 **Thrissur, Kerala, India**
 
 ---
 
 ## 📬 Contact
 
-* 📧 Email: [pranavprasad8713@gmail.com](mailto:pranavprasad8713@gmail.com)
-* 🔗 LinkedIn: [https://linkedin.com/in/your-link](https://linkedin.com/in/your-link)
-* 🐙 GitHub: [https://github.com/your-username](https://github.com/your-username)
-* 💡 LeetCode: [https://leetcode.com/your-id](https://leetcode.com/your-id)
+<p align="left">
+📧 <a href="mailto:pranavprasad8713@gmail.com">pranavprasad8713@gmail.com</a><br>
+🔗 <a href="https://linkedin.com/in/your-link">LinkedIn</a><br>
+🐙 <a href="https://github.com/your-username">GitHub</a><br>
+💡 <a href="https://leetcode.com/your-id">LeetCode</a>
+</p>
 
 ---
 
 ## 🧠 Skills
 
-### Programming
+### 🧾 Programming
+<p>
+<img src="https://img.shields.io/badge/Advanced%20C-blue?style=for-the-badge&logo=c">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
+<img src="https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnu-bash">
+</p>
 
-* Advanced C
-* C++
-* Python
-* Shell Scripting
+### 🖥 System Programming
+<p>
+<img src="https://img.shields.io/badge/Linux%20Syscalls-darkgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/IPC-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/TCP%20%2F%20UDP-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/POSIX%20Threads-lightgrey?style=for-the-badge">
+</p>
 
-### System Programming
+### 🐧 Embedded Linux
+<p>
+<img src="https://img.shields.io/badge/U--Boot-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cross--Compile-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kernel%20Bringup-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux%20Internals-darkgreen?style=for-the-badge">
+</p>
 
-* Linux system calls
-* IPC
-* TCP / UDP sockets
-* POSIX threads
+### 🔌 Microcontrollers
+<p>
+<img src="https://img.shields.io/badge/ESP32-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/PIC18F4520-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino">
+</p>
 
-### Embedded Linux
+### 🔁 Interfaces
+<p>
+<img src="https://img.shields.io/badge/GPIO-lightgrey?style=for-the-badge">
+<img src="https://img.shields.io/badge/ADC-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/UART%20SPI%20I2C-blue?style=for-the-badge">
+</p>
 
-* U-Boot
-* Cross-compiling
-* Kernel bring-up (ARM)
-* Linux internals
-
-### Microcontrollers
-
-* ESP32
-* PIC18F4520
-* Arduino
-
-### Peripherals & Interfaces
-
-* GPIO
-* ADC
-* Timers / Counters
-* UART / SPI / I2C
-
-### Tools
-
-* GCC, GDB
-* Makefiles
-* Vim
-* Qt Creator
-* Arduino IDE
-* MPLAB
-* ARM-GCC
-
-### Simulation & Design
-
-* Proteus
-* KiCad
-* LTspice
-* MATLAB
+### 🛠 Tools
+<p>
+<img src="https://img.shields.io/badge/GCC%20%7C%20GDB-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Makefiles-darkblue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Vim-green?style=for-the-badge&logo=vim">
+<img src="https://img.shields.io/badge/MPLAB-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/ARM--GCC-red?style=for-the-badge">
+</p>
 
 ---
 
 ## 🎓 Experience
 
-### Advanced Embedded Systems Trainee
+🔹 **Advanced Embedded Systems Trainee**  
+*Emertxe Information Technologies, Bangalore*  
+_(Govt. of India / NSDC aligned)_
 
-**Emertxe Information Technologies, Bangalore**
-(Government of India / NSDC aligned program)
-
-### Embedded Systems and IoT Intern
-
-**CSEED, Thrissur**
-
-### Artificial Intelligence and Python Intern
-
-**Pace Lab, Kochi**
+🔹 **Embedded Systems and IoT Intern** – *CSEED, Thrissur*  
+🔹 **AI & Python Intern** – *Pace Lab, Kochi*
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧪 Cloud-Connected UV-C Disinfection Robot
+- Semi-autonomous healthcare sanitization robot  
+- Cloud monitoring with HMI-based control  
+- Real-time sensing & obstacle detection  
 
-* Semi-autonomous UV-C robot for healthcare sanitization
-* Cloud monitoring and HMI-based remote control
-* Real-time sensing: temperature, humidity, air quality
-* Obstacle detection using ultrasonic sensors
-
-**Tech Stack:** ESP32, UV-C Lamps, Sensors, Firebase, Flask, HMI
-**Publication:** IEEE ICTEST-2025
+**Tech Stack:** ESP32, Sensors, Firebase, Flask  
+📄 **IEEE ICTEST-2025**
 
 ---
 
 ### 🔎 Command Line Inverted Search
+- Hash-table based indexing  
+- Two-level linked list architecture  
 
-* File-based text indexing using hash tables
-* Two-level linked list architecture
-* Supports create, update, save, backup
-
-**Tech Stack:** Advanced C, Data Structures, File I/O, Makefile
+**Tech Stack:** Advanced C, File I/O, Makefile
 
 ---
 
 ### 🧮 Arbitrary Precision Calculator
+- Linked-list based large number arithmetic  
 
-* Handles arithmetic on very large numbers
-* Linked-list based number representation
-
-**Tech Stack:** Advanced C, ADTs, Dynamic Memory
+**Tech Stack:** Advanced C
 
 ---
 
-### 🎧 MP3 Tag Reader and Editor
+### 🎧 MP3 Tag Reader & Editor
+- ID3v2 frame parsing  
+- Safe binary rewriting  
 
-* ID3v2 frame-level parsing and editing
-* Synchsafe integer handling
-* Safe binary rewriting without audio corruption
-
-**Tech Stack:** Advanced C, Binary File Handling, ID3v2
+**Tech Stack:** Advanced C, Binary Files
 
 ---
 
 ### 🖼 LSB Image Steganography
+- Text embedding in BMP images  
 
-* Text embedding and extraction from BMP images
-* Bitwise LSB manipulation with capacity checks
-
-**Tech Stack:** C, Bitwise Operations, BMP Format
+**Tech Stack:** C, Bitwise Operations
 
 ---
 
 ### 📒 Address Book Management System
+- File-based CRUD & indexed search  
 
-* File-driven CRUD operations
-* Indexed search and duplicate handling
-
-**Tech Stack:** Advanced C, File I/O
+**Tech Stack:** Advanced C
 
 ---
 
-### ⛽ RFID-Based Petrol Pump Automation
+### ⛽ RFID Petrol Pump Automation
+- RFID authentication & fuel control  
 
-* RFID-based authentication
-* Fuel control with safety sensors
-
-**Tech Stack:** ESP32, RFID, Sensors, Relays
+**Tech Stack:** ESP32, Sensors
 
 ---
 
 ## 🎓 Education
 
-**B.Tech – Electronics and Communication Engineering**
-APJ Abdul Kalam Technological University
-CGPA: 8.76 / 10
+🎓 **B.Tech – Electronics & Communication Engineering**  
+APJ Abdul Kalam Technological University  
+**CGPA:** 8.76 / 10
 
 ---
 
 ## 📜 Certifications
 
-* 🏅 NPTEL (IIT Kharagpur): Introduction to IoT — Elite Gold (Top 5%)
-* 📄 IEEE Conference Publication — ICTEST-2025
-* ☁ AWS: Generative AI, Prompt Engineering
-* 🧠 Microsoft: Azure AI Fundamentals
-* 🔐 Cisco: Introduction to Cybersecurity
+🏅 NPTEL (IIT Kharagpur) — IoT (Elite Gold, Top 5%)  
+📄 IEEE Conference Publication — ICTEST-2025  
+☁ AWS — Generative AI  
+🧠 Microsoft — Azure AI Fundamentals  
+🔐 Cisco — Cybersecurity
 
 ---
 
 ## ⚙️ Interests
 
-* 🐧 Embedded Linux
-* ⚙ Firmware Development
-* 🧩 Low-level Programming
-* 🧠 System Design
-
----
+🐧 Embedded Linux · ⚙ Firmware · 🧩 Low-level Programming · 🧠 System Design
