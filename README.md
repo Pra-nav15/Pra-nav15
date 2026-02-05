@@ -33,28 +33,28 @@ Comfortable working close to hardware, handling binary data, and building robust
 
 ## 📬 Contact
 
-<p align="left">
+<p>
 📧 <a href="mailto:pranavprasad8713@gmail.com">pranavprasad8713@gmail.com</a><br>
-🔗 <a href="https://linkedin.com/in/your-link">LinkedIn</a><br>
-🐙 <a href="https://github.com/your-username">GitHub</a><br>
-💡 <a href="https://leetcode.com/your-id">LeetCode</a>
+🔗 <a href="https://linkedin.com/in/pranav-prasad-680863222">LinkedIn</a><br>
+🐙 <a href="https://github.com/Pra-nav15">GitHub</a><br>
+💡 <a href="https://leetcode.com/u/TAb4RSknBQ/">LeetCode</a>
 </p>
 
 ---
 
-## 🧠 Skills
+## 🧠 Technical Skills
 
 ### 🧾 Programming
 <p>
 <img src="https://img.shields.io/badge/Advanced%20C-blue?style=for-the-badge&logo=c">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/Shell-black?style=for-the-badge&logo=gnu-bash">
+<img src="https://img.shields.io/badge/Shell%20Scripting-black?style=for-the-badge&logo=gnu-bash">
 </p>
 
-### 🖥 System Programming
+### 🖥 System Programming (Linux)
 <p>
-<img src="https://img.shields.io/badge/Linux%20Syscalls-darkgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux%20System%20Calls-darkgreen?style=for-the-badge">
 <img src="https://img.shields.io/badge/IPC-orange?style=for-the-badge">
 <img src="https://img.shields.io/badge/TCP%20%2F%20UDP-blueviolet?style=for-the-badge">
 <img src="https://img.shields.io/badge/POSIX%20Threads-lightgrey?style=for-the-badge">
@@ -63,32 +63,36 @@ Comfortable working close to hardware, handling binary data, and building robust
 ### 🐧 Embedded Linux
 <p>
 <img src="https://img.shields.io/badge/U--Boot-black?style=for-the-badge">
-<img src="https://img.shields.io/badge/Cross--Compile-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Kernel%20Bringup-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cross--Compiling-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kernel%20Bring--up-red?style=for-the-badge">
 <img src="https://img.shields.io/badge/Linux%20Internals-darkgreen?style=for-the-badge">
 </p>
 
-### 🔌 Microcontrollers
+### 🔌 Microcontrollers & Boards
 <p>
 <img src="https://img.shields.io/badge/ESP32-green?style=for-the-badge">
 <img src="https://img.shields.io/badge/PIC18F4520-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white">
+<img src="https://img.shields.io/badge/BeagleBone%20Black-black?style=for-the-badge">
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino">
 </p>
 
-### 🔁 Interfaces
+### 🔁 Peripherals & Interfaces
 <p>
 <img src="https://img.shields.io/badge/GPIO-lightgrey?style=for-the-badge">
 <img src="https://img.shields.io/badge/ADC-orange?style=for-the-badge">
-<img src="https://img.shields.io/badge/UART%20SPI%20I2C-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Timers%20%26%20Counters-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/UART%20SPI%20I2C-blueviolet?style=for-the-badge">
 </p>
 
-### 🛠 Tools
+### 🛠 Tools & Toolchains
 <p>
 <img src="https://img.shields.io/badge/GCC%20%7C%20GDB-black?style=for-the-badge">
 <img src="https://img.shields.io/badge/Makefiles-darkblue?style=for-the-badge">
 <img src="https://img.shields.io/badge/Vim-green?style=for-the-badge&logo=vim">
 <img src="https://img.shields.io/badge/MPLAB-blue?style=for-the-badge">
 <img src="https://img.shields.io/badge/ARM--GCC-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/XC8-grey?style=for-the-badge">
 </p>
 
 ---
