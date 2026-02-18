@@ -101,37 +101,37 @@ Tech: Advanced C, File I/O, Data Structures, Makefile
 
 🧮 Arbitrary Precision Calculator <br>
 
-Large number arithmetic using linked-list ADTs.
+Large number arithmetic using for scientific calculations using linked-list ADTs.
 Handled carry propagation, divide-by-zero validation, and memory safety.
 
 Tech: Advanced C
 
 🎧 MP3 Tag Reader & Editor <br>
 
-Parsed ID3v1 & ID3v2 frames and safely modified metadata without corrupting audio data.
+Parsed ID3v3 frames and safely modified metadata without corrupting audio data.
 
 Tech: Advanced C, Binary Files
 
 🖼 LSB Image Steganography <br>
 
-Text embedding and extraction in BMP images using bitwise operations with validation checks.
+Text messages embedding and extraction in BMP images using bitwise operations with validation checks.
 
 Tech: C
 
 🧪 Cloud-Connected UV-C Disinfection Robot <br>
 
-Semi-autonomous healthcare sanitization robot with Firebase cloud monitoring and HMI interface.
+Semi-autonomous healthcare sanitization robot with Firebase cloud monitoring and HMI interface specialised in UV-C Disinfection.
 
 Tech: ESP32, Firebase, Flask, Sensors
 
 🏆 Achievements <br>
 ---------------------------
 
-🏅 IEEE Conference Publication – ICTEST 2025 <br>
+🏅 IEEE Conference Publication – ICTEST 2025 doi:10.1109/ICTEST64710.2025.11042427 <br>
 🥇 NPTEL Elite Gold (Top 5%) – IIT Kharagpur <br>
-🌟 Student Spot Award – Emertxe <br>
-🏆 Certificate of Excellence – E-Cell IIT Bombay <br>
-👨‍💼 IEEE Member (2024) <br>
+🌟 Overall Department Topper 2021-2025 ECE Batch <br>
+🏆 Certificate of Excellence for Innovation– E-Cell IIT Bombay <br>
+👨‍💼 IEI Student Chapter Member (2025), ECSA, IEEE Member (2024) <br>
 
 ⚙️ Interests <br>
 ---------------------------
