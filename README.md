@@ -30,7 +30,7 @@ I enjoy debugging segmentation faults, optimizing pointer usage, and designing s
 🧩 Embedded Linux <br>
 <p> <img src="https://img.shields.io/badge/U--Boot-black?style=for-the-badge"> <img src="https://img.shields.io/badge/Cross--Compilation-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Kernel%20Bring--up-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Linux%20Boot%20Process-darkgreen?style=for-the-badge"> </p>
 🔌 Microcontrollers & Boards <br>
-<p> <img src="https://img.shields.io/badge/ESP32-green?style=for-the-badge"> <img src="https://img.shields.io/badge/PIC18F4580-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/BeagleBone%20Black-black?style=for-the-badge"> </p> <br>
+<p> <img src="https://img.shields.io/badge/ESP32-green?style=for-the-badge"> <img src="https://img.shields.io/badge/PIC18F4580-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/BeagleBone%20Black-black?style=for-the-badge">  <img src="https://img.shields.io/badge/Raspberry Pi-yellow?style=for-the-badge"> </p> <br>
 
 🚀 Featured Projects<br>
 --------------------------------
