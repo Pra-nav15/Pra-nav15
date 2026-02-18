@@ -1,5 +1,23 @@
-  <p align="center"> <h1>💻 Pranav Prasad</h1> </p> 
-<p align="center"> <b>Embedded Systems Engineer | Advanced C Developer | Embedded Linux | System Software Programming 🐧</b> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Pra-nav15&label=Profile%20Views&color=0e75b6&style=flat" /> </p> <p align="center"> <img src="https://img.shields.io/badge/Advanced-C-00599C?style=flat&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/Embedded-Linux-black?style=flat&logo=linux"> <img src="https://img.shields.io/badge/System-Programming-success?style=flat"> <img src="https://img.shields.io/badge/Microcontrollers-ESP32-green?style=flat"> </p>
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">💻 Pranav Prasad</h1>
+
+<p align="center">
+  <b>Embedded Systems Engineer • C,C++ Developer • Embedded Linux • System Software Programming 🐧</b>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Pra-nav15&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Embedded%20Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Programming-2E8B57?style=for-the-badge" />
+</p>
+
+<hr/>
+
 👨‍💻 About Me
 
 🎓 B.Tech – Electronics & Communication Engineering <br>
