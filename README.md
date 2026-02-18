@@ -25,9 +25,11 @@ I enjoy debugging segmentation faults, optimizing pointer usage, and designing s
 --------------------------------
 💻 Programming <br>
 <p>
-<img src="https://img.shields.io/badge/Advanced%20C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/%20C-00599C?style=for-the-badge&logo=c&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Shell%20Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
 🐧 Linux & System Programming <br>
