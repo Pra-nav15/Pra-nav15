@@ -3,7 +3,7 @@
 <h1 align="center">💻 Pranav Prasad</h1>
 
 <p align="center">
-  <b>Embedded Systems Engineer • C,C++ Developer • Embedded Linux • System Software Programming 🐧</b>
+  <b>Embedded Systems Engineer • C & C++ Developer • Embedded Linux • System Software Programming 🐧</b>
 </p>
 
 <p align="center">
