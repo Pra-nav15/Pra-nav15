@@ -24,13 +24,50 @@ I enjoy debugging segmentation faults, optimizing pointer usage, and designing s
 🧠 Technical Stack
 --------------------------------
 💻 Programming <br>
-<p> <img src="https://img.shields.io/badge/Advanced%20C-00599C?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"> <img src="https://img.shields.io/badge/Shell%20Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"> </p>
+<p>
+<img src="https://img.shields.io/badge/Advanced%20C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Shell%20Scripting-000000?style=for-the-badge&logo=gnu-bash&logoColor=white">
+</p>
+
 🐧 Linux & System Programming <br>
-<p> <img src="https://img.shields.io/badge/System%20Calls-darkgreen?style=for-the-badge"> <img src="https://img.shields.io/badge/IPC-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/TCP%2FUDP-blueviolet?style=for-the-badge"> <img src="https://img.shields.io/badge/POSIX%20Threads-lightgrey?style=for-the-badge"> <img src="https://img.shields.io/badge/File%20I%2FO-black?style=for-the-badge"> <img src="https://img.shields.io/badge/Make File-purple?style=for-the-badge"></p>
+<p>
+<img src="https://img.shields.io/badge/System%20Calls-darkgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/IPC-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/TCP%2FUDP-blueviolet?style=for-the-badge">
+<img src="https://img.shields.io/badge/POSIX%20Threads-lightgrey?style=for-the-badge">
+<img src="https://img.shields.io/badge/File%20I%2FO-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Makefile-purple?style=for-the-badge">
+</p>
+
 🧩 Embedded Linux <br>
-<p> <img src="https://img.shields.io/badge/U--Boot-black?style=for-the-badge"> <img src="https://img.shields.io/badge/Cross--Compilation-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Kernel%20Bring--up-red?style=for-the-badge"> <img src="https://img.shields.io/badge/Linux%20Boot%20Process-darkgreen?style=for-the-badge"> </p>
+<p>
+<img src="https://img.shields.io/badge/U--Boot-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Cross--Compilation-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Kernel%20Bring--up-red?style=for-the-badge">
+<img src="https://img.shields.io/badge/Linux%20Boot%20Process-darkgreen?style=for-the-badge">
+<img src="https://img.shields.io/badge/Device%20Drivers-grey?style=for-the-badge">
+</p>
+
 🔌 Microcontrollers & Boards <br>
-<p> <img src="https://img.shields.io/badge/ESP32-green?style=for-the-badge"> <img src="https://img.shields.io/badge/PIC18F4580-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/BeagleBone%20Black-black?style=for-the-badge">  <img src="https://img.shields.io/badge/Raspberry Pi-yellow?style=for-the-badge"> <img src="https://img.shields.io/badge/Arduino-red?style=for-the-badge"> </p> <br>
+<p>
+<img src="https://img.shields.io/badge/ESP32-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/PIC18F4580-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/BeagleBone%20Black-black?style=for-the-badge">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-yellow?style=for-the-badge">
+<img src="https://img.shields.io/badge/Arduino-red?style=for-the-badge">
+</p>
+
+🛠 Compilers & Debugging Tools <br>
+<p>
+<img src="https://img.shields.io/badge/GCC-444444?style=for-the-badge&logo=gnu&logoColor=white">
+<img src="https://img.shields.io/badge/GDB-990000?style=for-the-badge">
+<img src="https://img.shields.io/badge/XC8-blue?style=for-the-badge">
+<!-- <img src="https://img.shields.io/badge/Clang-grey?style=for-the-badge">
+<img src="https://img.shields.io/badge/Valgrind-darkred?style=for-the-badge"> -->
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
+</p>
+
 
 🚀 Featured Projects<br>
 --------------------------------
