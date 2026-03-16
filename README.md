@@ -136,7 +136,7 @@ Semi-autonomous healthcare sanitization robot with Firebase cloud monitoring and
 
 Tech: ESP32, Firebase, Flask, Sensors
 
-⛽ <a href="https://github.com/Pra-nav15/RFID-Based-Petrol-Pump-Automation-System">RFID-Based Petrol Pump Automation System</a> <br>
+⛽ <a href="https://github.com/Pra-nav15/RFID-Based-Petrol-Pump-Automation">RFID-Based Petrol Pump Automation System</a> <br>
 
 Automated petrol dispensing system using RFID authentication with keypad input and relay-controlled DC pump with additional safety mechanisms.
 
