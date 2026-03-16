@@ -92,35 +92,47 @@ I enjoy debugging segmentation faults, optimizing pointer usage, and designing s
 🚀 Featured Projects<br>
 --------------------------------
 
-🔎 Command Line Inverted Search <br>
+🔎 <a href="https://github.com/Pra-nav15/Inverted-Search">Command Line Inverted Search</a> <br>
 
-Hash-table based indexing engine with two-level linked list architecture.
+Hash-table based indexing engine with two-level linked list architecture.  
 Implemented database create, update, search, save, and backup operations with collision optimization.
 
 Tech: Advanced C, File I/O, Data Structures, Makefile
 
-🧮 Arbitrary Precision Calculator <br>
+🧮 <a href="https://github.com/Pra-nav15/Arbitarary-Precision-Calculator">Arbitrary Precision Calculator</a> <br>
 
-Large number arithmetic using for scientific calculations using linked-list ADTs.
+Large number arithmetic engine for scientific calculations using linked-list ADTs.  
 Handled carry propagation, divide-by-zero validation, and memory safety.
 
 Tech: Advanced C
 
-🎧 MP3 Tag Reader & Editor <br>
+🎧 <a href="https://github.com/Pra-nav15/MP3-Tag-Reader-and-Editor">MP3 Tag Reader & Editor</a> <br>
 
-Parsed ID3v3 frames and safely modified metadata without corrupting audio data.
+Parsed ID3v2/v3 frames and safely modified metadata without corrupting audio data.
 
 Tech: Advanced C, Binary Files
 
-🖼 LSB Image Steganography <br>
+🖼 <a href="https://github.com/Pra-nav15/LSB-Image-Steganography">LSB Image Steganography</a> <br>
 
-Text messages embedding and extraction in BMP images using bitwise operations with validation checks.
+Text message embedding and extraction in BMP images using bitwise operations with validation checks.
 
 Tech: C
 
-🧪 Cloud-Connected UV-C Disinfection Robot <br>
+🧾 <a href="https://github.com/Pra-nav15/Lexical-Analyzer">C Lexical Analyzer</a> <br>
 
-Semi-autonomous healthcare sanitization robot with Firebase cloud monitoring and HMI interface specialised in UV-C Disinfection.
+Tokenized C source code into keywords, identifiers, operators, constants, and delimiters using pattern-based lexical parsing.
+
+Tech: C, Compiler Design Concepts
+
+🚗 <a href="https://github.com/Pra-nav15/CAN-Based-Automotive-Dashboard-System">Automotive CAN-Based Dashboard System</a> <br>
+
+Embedded system simulating ECU communication over CAN bus to display vehicle parameters like speed, RPM, gear status, and indicators.
+
+Tech: PIC18F4580, CAN Protocol, Embedded C
+
+🧪 <a href="https://github.com/Pra-nav15/Cloud-Connected-UV-Disinfection-Robot-for-Pandemic-Mitigation-in-Healthcare">Cloud-Connected UV-C Disinfection Robot</a> <br>
+
+Semi-autonomous healthcare sanitization robot with Firebase cloud monitoring and HMI interface for safe UV-C based disinfection.
 
 Tech: ESP32, Firebase, Flask, Sensors
 
